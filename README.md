@@ -8,7 +8,7 @@ please run npm command for install package
 
 ### `npm install`
 
-## Run project
+### Run project
 
 Open http://localhost:3000 to view it in the browser.
 
